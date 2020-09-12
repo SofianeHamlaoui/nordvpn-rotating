@@ -1,2 +1,2 @@
 # nordvpn-rotating
-NordVpn Rotating with megasync downloading for bypassing Mega download limits
+NordVPN Rotating with megasync downloading for bypassing Mega download limits
