@@ -11,7 +11,7 @@ countries="France Belgium Spain Italy Germany Netherlands Switzerland"
 2.  shuffing the list and selecting a random one ( for rotating and changing the IP each X time )
 
 ```
-country="$(shuf -n 1 -e France Belgium Spain Italy Germany Netherland    s Switzerland)"
+country="$(shuf -n 1 -e France Belgium Spain Italy Germany Netherlands Switzerland)"
 ```
 
 3.  Connecting to the chosen country and runnnig Mega on the background
